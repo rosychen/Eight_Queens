@@ -1,0 +1,18 @@
+c:\users\rosy\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Rosy\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Rosy\Desktop\BU\Senior Fall\EC447\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
